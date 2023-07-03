@@ -1,4 +1,4 @@
-# Repositorio de Modelado y Programación
+# Repositorio de Lógica Computacional
 
 Este repositorio contiene prácticas y proyectos relacionados con la materia de Lógica Computacional 2023-2 
 
